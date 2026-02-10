@@ -1,5 +1,5 @@
 # Solar Panel Debris Removal System  
-### (Ice & Snow Mitigation for Maximum Energy Efficiency)
+### (Ice & Snow Remover for Energy Efficiency)
 
 ##  Project Overview
 This project focuses on improving solar panel efficiency by **automatically detecting and removing debris**, specifically **ice and snow**, which can obstruct sunlight and reduce energy output.  
