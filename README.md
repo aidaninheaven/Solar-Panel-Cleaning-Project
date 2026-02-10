@@ -1,26 +1,81 @@
-#Oil-Quality-Classification-System
+# ☀️ Solar Panel Debris Removal System  
+### (Ice & Snow Mitigation for Maximum Energy Efficiency)
 
-This project is aimed to be able to remove debris, namely ice and snow, off of a solar panel, allowing the panel to be able to cleanly store energy at the highest rate possible without worries for hinderances. 
+##  Project Overview
+This project focuses on improving solar panel efficiency by **automatically detecting and removing debris**, specifically **ice and snow**, which can obstruct sunlight and reduce energy output.  
+By combining **sensor-based detection** with **active removal methods**, the system ensures panels remain clean, efficient, and operational in harsh weather conditions.
 
---Team Members--
-Ryan - Project Manager, CAD Specialist
-Aidan - Github Organizer, Software Development
-Marcos - Material & Supplies, Inventory Supervisor
+---
 
-Materials used -
+## Project Goals
+- Detect debris accumulation on solar panels  
+- Actively remove ice and snow using multiple methods  
+- Maintain long-term reliability with minimal maintenance  
+- Maximize energy storage and efficiency year-round  
 
-TBD
+---
 
-Software/libraries I used -
+## Planned System Features
+- **Debris Detection**
+  - Sensors to identify snow/ice coverage
+  - Automated activation when obstruction is detected  
 
-TBD
+- **Debris Removal Methods**
+  - Thermal heating elements (i.e. heat gun)
+  - Mechanical brushes or wipers
+  - Multi-process approach for effectiveness in differing conditions  
 
-Summary:
+- **Durability & Reliability**
+  - Weather-resistant materials
+  - Designed for prolonged outdoor use
+  - Low power overhead relative to energy gained  
 
-TBD
+---
 
-Our group plans to:
+## 👥 Team Members
+| Name   | Role |
+|-------|------|
+| **Ryan** | Project Manager, CAD Specialist |
+| **Aidan** | GitHub Organizer, Software Development |
+| **Marcos** | Materials & Supplies, Inventory Supervisor |
 
-- Detect when debris is on top of the solar panel
-- Use multiple processes to remove said debris (i.e. heat, brushes)
-- Ensure the project is reliable and lasts for a prolonged amount of time.
+---
+
+## 🧰 Materials Used
+> _To be determined_
+
+Planned materials may include:
+- Heating elements
+- Mechanical brush components
+- Sensors (temperature, optical, or pressure-based)
+
+---
+
+## Software & Libraries
+> _To be determined_
+
+Potential tools:
+- C++ / Python
+- Sensor libraries
+- Arduino UNO
+
+---
+
+##  Project Summary
+> _To be completed_
+
+This system aims to provide an automated, efficient, and durable solution to a common limitation in solar energy collection, environmental debris. By ensuring panels remain clear even in winter conditions, the system increases reliability and long-term energy output.
+
+---
+
+## Project Status
+🟡 **In Development**  
+Core concepts defined, with materials and software decisions in progress.
+
+---
+
+## Step 1
+
+## Step 2
+
+## Step 3
