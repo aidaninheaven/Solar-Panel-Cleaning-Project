@@ -1,4 +1,4 @@
-# ☀️ Solar Panel Debris Removal System  
+# Solar Panel Debris Removal System  
 ### (Ice & Snow Mitigation for Maximum Energy Efficiency)
 
 ##  Project Overview
