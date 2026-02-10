@@ -69,7 +69,7 @@ This system aims to provide an automated, efficient, and durable solution to a c
 ---
 
 ## Project Status
-🟡 **In Development**  
+**In Development**  
 Core concepts defined, with materials and software decisions in progress.
 
 ---
