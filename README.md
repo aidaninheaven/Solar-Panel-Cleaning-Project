@@ -32,7 +32,7 @@ By combining **sensor-based detection** with **active removal methods**, the sys
 
 ---
 
-## 👥 Team Members
+##  Team Members
 | Name   | Role |
 |-------|------|
 | **Ryan** | Project Manager, CAD Specialist |
@@ -41,7 +41,7 @@ By combining **sensor-based detection** with **active removal methods**, the sys
 
 ---
 
-## 🧰 Materials Used
+##  Materials Used
 > _To be determined_
 
 Planned materials may include:
