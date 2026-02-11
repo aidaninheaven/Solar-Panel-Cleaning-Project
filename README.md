@@ -74,7 +74,7 @@ Core concepts defined, with materials and software decisions in progress.
 
 ---
 
-## Step 1
+## Step 1 - Define the Problem (Handled Above)
 
 ## Step 2
 
