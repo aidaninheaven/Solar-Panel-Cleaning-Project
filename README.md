@@ -28,7 +28,7 @@ By combining **sensor-based detection** with **active removal methods**, the sys
 - **Durability & Reliability**
   - Weather-resistant materials
   - Designed for prolonged outdoor use
-  - Low power overhead relative to energy gained  
+  - Low power utilized relative to energy gained  
 
 ---
 
